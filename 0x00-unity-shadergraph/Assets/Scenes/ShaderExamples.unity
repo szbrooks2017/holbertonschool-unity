@@ -228,13 +228,13 @@ GameObject:
   m_Component:
   - component: {fileID: 229539819}
   - component: {fileID: 229539818}
-  m_Layer: 1
+  m_Layer: 0
   m_Name: Global Volume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &229539818
 MonoBehaviour:
   m_ObjectHideFlags: 0
