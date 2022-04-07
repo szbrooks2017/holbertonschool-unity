@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: dissolve2
-  m_Shader: {fileID: -6465566751694194690, guid: 1e49e5a0452067e41bbb69808b202bfb, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 74f01842cc188bc4ea537606e6ed9f4a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
