@@ -1894,7 +1894,7 @@
     },
     "m_Name": "Fresnel Strength",
     "m_DefaultReferenceName": "Vector1_7c719c3e17bc4a2bbebf09b2d0fc51f7",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_FresnelStrength",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
