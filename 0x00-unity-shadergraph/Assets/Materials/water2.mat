@@ -107,10 +107,10 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Distance: 4.9
+    - _Distance: 3.83
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FoamAmount: 6.3
+    - _FoamAmount: 7.34
     - _FoamCutoff: 24.04
     - _FoamScale: 101.42
     - _FoamSpeed: 0.58
@@ -131,8 +131,8 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _WaveAmplitude: 0.4
-    - _WaveSpeed: 2
+    - _WaveAmplitude: 0.12
+    - _WaveSpeed: 2.75
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
